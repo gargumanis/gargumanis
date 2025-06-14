@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola 👋
+
+Soy una person iniciandose en el mundo de la programación. Estoy empezando a estudiar el programa de codificacion Kotlin, con la finalidad de en un futuro dominar la platforma Android Studio y así poder crear mis propias aplicaciones.
+
+Me gustaria poder compartir informacion con ustedes y así poder adentrarme mejor en este mundo.
 
 <!--
 **gargumanis/gargumanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
