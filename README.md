@@ -1,4 +1,10 @@
-## Hi there 👋
+## Gustavo Argumanis Sancho-Davila
+
+Buenas, soy practicante de programacion de software a nivel Junior
+
+Tengo conocimiento de los programas de software Kotlin y Android Studio a nivel b'asico, asi como el uso de la plataforma Github a nivel basico tambien. Mi experiencia en el rubro incluye el estudio de forma particular de los programas respectivos asi como asistencia en trabajos menores eventuales en programacion de los mismos
+
+Actualmnete estoy profundizando en mis estudios con la finalidad e llegar a nivel intermedio en las plataformas antes mencionadas
 
 <!--
 **gargumanis/gargumanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
